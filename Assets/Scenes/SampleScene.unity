@@ -146,7 +146,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   projectile: {fileID: 1626900364051131713, guid: f14beef343f9f15479edf42800b25138, type: 3}
-  shotPoint: {fileID: 2079590016}
+  shotPoint: {fileID: 2079590015}
   timeBetweenShots: 0.5
 --- !u!1 &429568392
 GameObject:
@@ -1285,7 +1285,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 442635613999779751, guid: 1d845ab4c14400043bb8e641bc29b542, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -113.484764
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 442635613999779751, guid: 1d845ab4c14400043bb8e641bc29b542, type: 3}
       propertyPath: m_LocalRotation.w
